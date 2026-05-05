@@ -1,10 +1,8 @@
 """This module contains the Chapter class for Encyclopedia of the Dog."""
 
 from dataclasses import dataclass
-import csv
 from html import unescape
 
-from my_annotations import Annotation
 
 @dataclass
 class Chapter:
@@ -27,24 +25,6 @@ class Chapter:
             chapter_text = unescape(chapter_html)
             chapter_text = unescape(chapter_html)
         return chapter_text
-
-    def get_annotations(self, annotation_file):
-        with open(annotation_file, 'r', encoding='utf-8', newline='') as csvfile:
-            reader = csv.DictReader(csvfile)
-            chapter_annotations = []
-            for line in reader:
-                if line['ch_num'] == self.number and line['lang'] == self.language:
-                    id = line['Id']
-                    text = line['highlighted']
-                    suffix = line['suffix'][:5]
-                    text_html = line['highlighted_html']
-                    suffix_html = line['suffix_html'][:5]
-                    start = int(line['position_start'])
-                    end = int(line['position_end'])
-                    children = []
-                    annotation = Annotation(id, text, suffix, text_html, suffix_html, start, end, children)
-                    chapter_annotations.append(annotation)
-            return chapter_annotations
 
     def construct_yaml_frontmatter(self):
         frontmatter = ('---\n'

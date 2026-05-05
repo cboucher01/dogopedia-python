@@ -14,6 +14,7 @@ import csv
 import unicodedata
 
 from my_chapters import Chapter
+from my_annotations import Annotation
 
 CHAPTER_DATA_FILE = 'data/chapter_data.csv'
 ANNOTATION_DATA_FILE = 'data/annotation_data/comments-chapters-00-03.csv'
@@ -23,7 +24,7 @@ def main():
     chapters = get_chapters()
     for chapter in chapters:
         chapter_text = chapter.get_clean_html()
-        chapter_annotations = chapter.get_annotations(ANNOTATION_DATA_FILE)
+        chapter_annotations = get_annotations(chapter, ANNOTATION_DATA_FILE)
         annotated_chapter_text = annotate_one_chapter(chapter_text, chapter_annotations)
         normalized_chapter_text = normalize_chapter_text(annotated_chapter_text)
         write_output_file(chapter, normalized_chapter_text)
@@ -43,6 +44,25 @@ def get_chapters():
             chapter = Chapter(number, language, title, author, translator)
             chapters.append(chapter)
     return chapters
+
+
+def get_annotations(chapter, annotation_file):
+    with open(annotation_file, 'r', encoding='utf-8', newline='') as csvfile:
+        reader = csv.DictReader(csvfile)
+        chapter_annotations = []
+        for line in reader:
+            if line['ch_num'] == chapter.number and line['lang'] == chapter.language:
+                id = line['Id']
+                text = line['highlighted']
+                suffix = line['suffix'][:5]
+                text_html = line['highlighted_html']
+                suffix_html = line['suffix_html'][:5]
+                start = int(line['position_start'])
+                end = int(line['position_end'])
+                children = []
+                annotation = Annotation(id, text, suffix, text_html, suffix_html, start, end, children)
+                chapter_annotations.append(annotation)
+        return chapter_annotations
 
 
 def annotate_one_chapter(chapter_text, chapter_annotations):
