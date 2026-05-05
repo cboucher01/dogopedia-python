@@ -153,20 +153,20 @@ def print_report(chapter, chapter_annotations, annotated_chapter_text):
     #     print()
 
 
-def get_missed_annotations(chapter_annotations, clean_chapter_text):
-    missed_annotations = []
-    for annotation in chapter_annotations:
-        if annotation.id not in clean_chapter_text:
-            missed_annotations.append(annotation)
-    return missed_annotations
-
-
 def get_added_annotations(chapter_annotations, clean_chapter_text):
     added_annotations = 0
     for annotation in chapter_annotations:
         if annotation.id in clean_chapter_text:
             added_annotations += 1
     return added_annotations
+
+
+def get_missed_annotations(chapter_annotations, clean_chapter_text):
+    missed_annotations = []
+    for annotation in chapter_annotations:
+        if annotation.id not in clean_chapter_text:
+            missed_annotations.append(annotation)
+    return missed_annotations
 
 
 if __name__ == '__main__':
