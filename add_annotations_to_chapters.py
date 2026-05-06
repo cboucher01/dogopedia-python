@@ -17,7 +17,7 @@ from my_chapters import Chapter
 from my_annotations import Annotation
 
 CHAPTER_DATA_FILE = 'data/chapter_data.csv'
-ANNOTATION_DATA_FILE = 'data/annotation_data/comments-chapters-00-03.csv'
+ANNOTATION_DATA_FILE = 'data/annotation_data/comments-all.csv'
 
 
 def main():
@@ -96,7 +96,7 @@ def identify_parent_and_child_annotations(chapter_annotations, starting_index=0)
         identify_parent_and_child_annotations(chapter_annotations, index_of_next_annotation)
     # check if first annotation is a parent to the second one
     elif (next_annotation.start_position >= starting_annotation.start_position
-          and next_annotation.end_position <= starting_annotation.end_position):
+            and next_annotation.end_position <= starting_annotation.end_position):
         starting_annotation.children.append(next_annotation)
         next_annotation.is_child = True
         identify_parent_and_child_annotations(chapter_annotations, index_of_next_annotation)
