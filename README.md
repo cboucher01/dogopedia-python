@@ -19,7 +19,7 @@ For each chapter, the program gets the relevant annotations from the annotation 
 
 ## 2026.05.06 Notes
 
-As of 2026.05.06, the HTML output files have been copied into the _texts directory in the [refactored]((https://github.com/digbmc/dogopedia-dev/tree/refactored) branch of [digbmc/dogopedia-dev](https://github.com/digbmc/dogopedia-dev). The dev site is currently being deployed from that branch, so the result of the HTML produced by this program can be viewed at [https://digbmc.github.io/dogopedia-dev/](https://digbmc.github.io/dogopedia-dev/). 
+As of 2026.05.06, the HTML output files have been copied into the _texts directory in the [refactored](https://github.com/digbmc/dogopedia-dev/tree/refactored) branch of [digbmc/dogopedia-dev](https://github.com/digbmc/dogopedia-dev). The dev site is currently being deployed from that branch, so the result of the HTML produced by this program can be viewed at [https://digbmc.github.io/dogopedia-dev/](https://digbmc.github.io/dogopedia-dev/). 
 
 At first glance, the Python program seems to have a lower rate of success replacing annotated text with its marked-up version when compared to the [prod site](https://encyclopediaofthedog.com/), which still uses Liquid to add the annotations to the chapter text.
 However, upon closer inspection, while the new Python has missed annotations that the Liquid added, it has also added annotations that the Liquid missed. The report function built into this Python program also makes it easier to check the success rate than the Liquid version, and it should be easier for other developers to work with in the future.
