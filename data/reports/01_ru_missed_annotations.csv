@@ -1,0 +1,32 @@
+id,text,suffix,text_html,suffix_html,start_position,end_position,children,is_child
+lD3gBKtkEeydac-qwsqX9w,год нынешний,. Гра,год нынешний,. Гра,675,687,[],False
+uYs0SMlZEeyw1Ef0r_IVlg,Заитильщина,. Раз,Заитильщина,. Раз,762,773,[],False
+1XaoYqtkEeytDKNGXFGdpA,сравнительно посторонний,", но ",сравнительно посторонний,", но ",847,871,[],False
+Ru3V_uEdEeyd9os4cqOLCQ,в калашный ряд,", а т",в калашный ряд,", а т",8502,8516,[],False
+8oYO0J03Ee-bln-h2vYW8A,па́сы,. Так,па́сы,. Так,9460,9465,[],False
+moyrrN36Eey6GLeyzX-UFw,кубарэ, не з,кубарэ, не з,11826,11832,[],False
+5wHFDONzEeyvYTOm16xe_A,гулять, — та,гулять, — та,11885,11891,[],False
+ISoVBHtNEe-6Zz8lq2uDsQ,вникните,. И п,вникните,. И п,11951,11959,[],False
+KEdUMP6hEeyeEUuh0XAX0w,Гурий-Охотник,", он ",Гурий-Охотник,", он ",13753,13766,[],False
+ij-VdOaYEeyTWltMsIVYTQ,косу,", а о",косу,", а о",14321,14325,[],False
+MM5yMhb2Ee6pap__91yCoQ,Илья,", пов",Илья,", пов",16448,16452,[],False
+ioML7HtMEe-ggXeJ1_qELQ,унывал,", уда",унывал,", уда",18457,18463,[],False
+faMTzv4oEe2m_svGCcBxSg,ракитов куст, и вы,ракитов куст, и вы,19034,19046,[],True
+-FVKoujyEeyFPqfCVlsr0A,"мне с башмачным шнуром заколдобило, 
+захлестнулась продернутая тесьма. Перервать бы — шалишь, категория попалась упористая. Короче, зубами я узел тот развязал: пребывали еще в наличии.", И ст,"мне с башмачным шнуром заколдобило, 
+захлестнулась продернутая тесьма. Перервать бы — шалишь, категория попалась упористая. Короче, зубами я узел тот развязал: пребывали еще в наличии.", И ст,19097,19281,"[Annotation(id='FDifpOjyEeyO2tcGxz0DEg', text='закол', suffix='добил', text_html='закол', suffix_html='добил', start_position=19120, end_position=19125, children=[], is_child=True)]",False
+FDifpOjyEeyO2tcGxz0DEg,закол,добил,закол,добил,19120,19125,[],True
+_CKryo7lEe-fQ9-U1ZvoRA,находились, еще ,находились, еще ,19160,19170,[],False
+tb_eGJ03Ee-sXAe1ME6fmQ,колготя́тся,", нор",колготя́тся,", нор",19458,19469,[],True
+kbhkNp03Ee-pw4NcwCZDSQ,капризничают,. Ори,капризничают,. Ори,19800,19812,[],False
+Py0FdutSEeyBnEsN7W55rA,грядый, и др,грядый, и др,20271,20277,[],False
+XNOQsuyYEeypj3eA_Yz2hQ,Страшнеющего Суда,".
+
+
+
+",Страшнеющего Суда,.</p>,23532,23549,"[Annotation(id='1CW85tc6Ee-F_HPVi2Fbsw', text='Суда', suffix='.\n\n\n\n', text_html='Суда', suffix_html='.</p>', start_position=23545, end_position=23549, children=[], is_child=True)]",False
+1CW85tc6Ee-F_HPVi2Fbsw,Суда,".
+
+
+
+",Суда,.</p>,23545,23549,[],True

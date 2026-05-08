@@ -1,0 +1,17 @@
+id,text,suffix,text_html,suffix_html,start_position,end_position,children,is_child
+MbtPintPEe-8rXNiR_AHgA,ангельское перо,. Мар,ангельское перо,. Мар,951,966,"[Annotation(id='ETMlzu2WEeyKQ_91qMSTPQ', text='Марии', suffix=' — тр', text_html='Марии', suffix_html=' — тр', start_position=961, end_position=966, children=[], is_child=True)]",False
+ETMlzu2WEeyKQ_91qMSTPQ,Марии, — тр,Марии, — тр,961,966,[],True
+8nswtOLPEe6L9ZeZ7y_eTw,На юго-склоне ж,", над",На юго-склоне ж,", над",1160,1175,[],False
+Yu-frPJOEeyqdb_yKfODUw,юнга вел ее под руку к заброшенным стапелям,", а ч",юнга вел ее под руку к заброшенным стапелям,", а ч",5712,5755,[],False
+yUM-tPh9Eeyme2e3Qjckog,Он был несвеж и немолод.,"
+
+
+
+ ",Он был несвеж и немолод.,"</p>
+",13199,13223,"[Annotation(id='rCYyZs3QEe-7quvqKiR9gw', text='и немолод.', suffix='\n\n\n\n ', text_html='и немолод.', suffix_html='</p>\n', start_position=13213, end_position=13223, children=[], is_child=True)]",False
+rCYyZs3QEe-7quvqKiR9gw,и немолод.,"
+
+
+
+ ",и немолод.,"</p>
+",13213,13223,[],True

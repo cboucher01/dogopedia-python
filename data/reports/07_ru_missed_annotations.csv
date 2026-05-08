@@ -1,0 +1,29 @@
+id,text,suffix,text_html,suffix_html,start_position,end_position,children,is_child
+1160Qqj0Ee2P1efJq2tv_g,синему снегу, его ,синему снегу, его ,1613,1625,"[Annotation(id='RfsFsmAwEe2a_0_Gs8JTCw', text='синему', suffix=' снег', text_html='синему', suffix_html=' снег', start_position=1613, end_position=1619, children=[], is_child=True)]",False
+BIEChjmSEe2Qw38d7-E-yQ,"И в то время как Ливия гибла в пыли,
+  
+    Нидерланды неслись на коньках.","
+  
+ ","И мерещился Бог в облаках,</li>
+  <li>И в то время как Ливия гибла в пыли,</li>
+  <li>
+    <p>Нидерланды неслись на коньках.","</p>
+",1670,1744,"[Annotation(id='bKftjDxKEe6eFfdzSqMkOA', text='Нидерланды', suffix=' несл', text_html='Нидерланды', suffix_html=' несл', start_position=1714, end_position=1724, children=[], is_child=True)]",False
+bKftjDxKEe6eFfdzSqMkOA,Нидерланды, несл,Нидерланды, несл,1714,1724,[],True
+HH3v5DRLEe21hc_FH4pCWg,"У Сороки — боли, у Вороны — боли",",
+  Н","У Сороки — боли, у Вороны — боли",",</li",1879,1911,"[Annotation(id='0vIacAbXEe6_RefDmU4bkQ', text='Сороки', suffix='\xa0— бо', text_html='Сороки', suffix_html='\xa0— бо', start_position=1881, end_position=1887, children=[], is_child=True)]",False
+0vIacAbXEe6_RefDmU4bkQ,Сороки, — бо,Сороки, — бо,1881,1887,[],True
+YlvlYDRMEe2lAoNP1Gc40w,Быдогощ,"
+  За",Быдогощ,</li>,2651,2658,[],False
+WykxciotEe2eph8lL0adRg,инвалид,",
+  К",инвалид,",</li",2768,2775,[],False
+Tq1AeCq-Ee2JPztg0DG6Yg,анданте,".
+  Х",анданте,.</li,3682,3689,[],False
+OjKYCC30Ee2zbWsN6qAH1g,лапти́,",
+  О",лапти́,",</li",4763,4769,[],False
+664C6o7pEe-PRTPTvOwyaw,"Салом, братишка",", пой","Салом, братишка",", пой",5105,5120,"[Annotation(id='C-4L-DmTEe272sN013xCCg', text='мормышка', suffix=', пой', text_html='мормышка', suffix_html=', пой', start_position=5110, end_position=5118, children=[], is_child=True)]",False
+C-4L-DmTEe272sN013xCCg,мормышка,", пой",мормышка,", пой",5110,5118,[],True
+UMQO_o7qEe-UgH-A_iNgvw,свой булатный, вост,свой булатный, вост,7018,7031,"[Annotation(id='Ay2ygC7KEe2XFUNFjeJWwA', text='вострю', suffix=':\n  Б', text_html='вострю', suffix_html=':</li', start_position=7025, end_position=7031, children=[], is_child=True)]",False
+Ay2ygC7KEe2XFUNFjeJWwA,вострю,":
+  Б",вострю,:</li,7025,7031,[],True
+ABIOFDm3Ee2vOpMNiBSGew,Квазимодною, даде,Квазимодною, даде,7213,7224,[],False

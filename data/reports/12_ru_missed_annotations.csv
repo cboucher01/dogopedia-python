@@ -1,0 +1,31 @@
+id,text,suffix,text_html,suffix_html,start_position,end_position,children,is_child
+NkdzlHu6Ee23sf9L8yqfgA,град,", в м",град,", в м",836,840,[],False
+wvQEsnu9Ee2hICfy0z_AuA,идут не впрок,. Воз,идут не впрок,. Воз,1463,1476,[],False
+r6w3Pnu-Ee23uo-bUBs4kQ,Федору,", Кал",Федору,", Кал",1501,1507,"[Annotation(id='sglEAhrQEe6FdxORXm6ADQ', text='Федору', suffix=', Кал', text_html='Федору', suffix_html=', Кал', start_position=1501, end_position=1507, children=[], is_child=True)]",False
+G4HmbHu-Ee2f53t0aW8Spw,Калуге," 
+или",Калуге," 
+или",1509,1515,[],False
+x2mcKIB8Ee2WIwPh22rKOQ,норовим,", 
+но",норовим,", 
+но",2092,2099,[],False
+1D7Jxnx9Ee2P05vsNf2Izg,татьба, несу,татьба, несу,2380,2386,[],False
+XlAvuIw0Ee2MvVeSPSIHfA,"ни в Городнище, ни в Быгодоще",: взв,"ни в Городнище, ни в Быгодоще",: взв,3197,3226,"[Annotation(id='FcQp5nu6Ee2BH_stT5LjUA', text='Городнище', suffix=', ни ', text_html='Городнище', suffix_html=', ни ', start_position=3202, end_position=3211, children=[], is_child=True)]",False
+FcQp5nu6Ee2BH_stT5LjUA,Городнище,", ни ",Городнище,", ни ",3202,3211,[],True
+3Z4bwoCBEe24jhvXM2yu3g,Быгодоще,: взв,Быгодоще,: взв,3218,3226,[],False
+0joJAJ0zEe-aqGukFR9ijA,фа́брички, шляп,фа́брички, шляп,4015,4024,[],False
+do_OEoPEEe2wT4OmlbjDTA,сувоями,. Не ,сувоями,. Не ,4539,4546,[],False
+CUoOJIPGEe2--Eftak0OqA,козу,", ни ",козу,", ни ",4903,4907,[],False
+ZhAFwoj0Ee2sIqN9pDFXtw,проповедь,. Дох,проповедь,. Дох,8261,8270,[],False
+gv8R3J0zEe-Lkttafa__1A,появился, у юж,появился, у юж,8323,8331,[],True
+ywBXSoniEe2tDavUK46hig,Человеческий Сын,. Выр,Человеческий Сын,. Выр,8349,8365,[],False
+x_Po1onjEe2oXcMbZ1XBUw,нежели, цели,нежели, цели,8541,8547,[],False
+a4lmnJ0zEe-OmVcUP6tD_Q,перечесть,. В р,перечесть,. В р,8923,8932,[],True
+UehfUIkMEe2XSc9ILHauvA,жала,", нав",жала,", нав",9465,9469,[],False
+rC4VAon5Ee29qauwcikzcQ,кузнечиками,. Так,кузнечиками,. Так,10420,10431,[],False
+P5slNon7Ee2V1yPS0LQeIw,повыколошматил,? Гос,повыколошматил,? Гос,10698,10712,[],False
+5YWKqoo2Ee2QB-9O6j3jOg,лохмаче, у хо,лохмаче, у хо,13445,13452,[],False
+KWvZDIrtEe2mnLMdXxYMMA,шлагбауман,", а п",шлагбауман,", а п",14190,14200,[],False
+bVED1Iw5Ee228iPsbj9mOA,"сына забрав и фамилию обменяв ему и себе, и где вы оба сейчас — кто вас ведает",. На ,"сына забрав и фамилию обменяв ему и себе, и где вы оба сейчас — кто вас ведает",. На ,14883,14961,"[Annotation(id='c36pWIqrEe2mJC8IqWXZ-Q', text='ведает', suffix='. На ', text_html='ведает', suffix_html='. На ', start_position=14955, end_position=14961, children=[], is_child=True)]",False
+c36pWIqrEe2mJC8IqWXZ-Q,ведает,. На ,ведает,. На ,14955,14961,[],True
+ND7ZnJ0zEe-m-IdfcMBMNA,"им, мечтатателям, шире некуда",. Но ,"им,"," 
+Пак",18148,18177,[],False

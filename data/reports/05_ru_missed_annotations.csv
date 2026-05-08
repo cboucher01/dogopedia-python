@@ -1,0 +1,63 @@
+id,text,suffix,text_html,suffix_html,start_position,end_position,children,is_child
+k_cbeFDcEe68p4cgHniETw,Яков, Ильи,Яков, Ильи,1289,1293,[],False
+pUGv8BrNEe6KDce_FuBtnw,Ильич, Пала,Ильич, Пала,1294,1299,[],False
+Z-t92JzyEe24xPfBY7pJmg,горбатых," 
+пат",горбатых," 
+пат",1476,1484,[],True
+xhRoHA9DEe2tMQ_Md9ia4A,"горбатых 
+патагонских сверчков", — см,"горбатых 
+патагонских сверчков", — см,1476,1506,"[Annotation(id='Z-t92JzyEe24xPfBY7pJmg', text='горбатых', suffix=' \nпат', text_html='горбатых', suffix_html=' \nпат', start_position=1476, end_position=1484, children=[], is_child=True), Annotation(id='iytA4H9KEe6J39tLacIMlQ', text='патагонских', suffix=' свер', text_html='патагонских', suffix_html=' свер', start_position=1486, end_position=1497, children=[], is_child=True)]",False
+iytA4H9KEe6J39tLacIMlQ,патагонских, свер,патагонских, свер,1486,1497,[],True
+98LzBg9DEe22tttUYw8wFg,"Карус Штерне, Эволюцiя Mipa, Werden 
+und Vergehen",", Пер","Карус Штерне, <em>Эволюцiя Mipa, Werden 
+und Vergehen",</em>,1513,1562,"[Annotation(id='GuWgpBmoEe2a4O_AqQVQcw', text='Карус Штерне', suffix=', Эво', text_html='Карус Штерне', suffix_html=', <em', start_position=1513, end_position=1525, children=[], is_child=True), Annotation(id='RLutPhmnEe2muPtc59jiAg', text='Эволюцiя Mipa', suffix=', Wer', text_html='Эволюцiя Mipa', suffix_html=', Wer', start_position=1527, end_position=1540, children=[], is_child=True)]",False
+RLutPhmnEe2muPtc59jiAg,Эволюцiя Mipa,", Wer",Эволюцiя Mipa,", Wer",1527,1540,[],True
+9uqCuA9EEe2RmHMb6W35ww, со двора,", во ", со двора,", во ",1720,1729,[],True
+Yi_8LBHREe27h8teypYk2g," со двора, во дворе ","
+немó"," со двора, во дворе ","
+немó",1720,1740,"[Annotation(id='9uqCuA9EEe2RmHMb6W35ww', text=' со двора', suffix=', во ', text_html=' со двора', suffix_html=', во ', start_position=1720, end_position=1729, children=[], is_child=True)]",False
+M1muIBAZEe2fvZNnzMLEMA,петербуржскiй, метр,петербуржскiй, метр,2261,2274,[],False
+awqRehphEe2M0W_za6iWAQ,Зевеса,", тип",Зевеса,", тип",2893,2899,[],False
+YLeXkBAlEe2dW4ML8vL_Iw,много воды утекло,", Ник",много воды утекло,", Ник",3863,3880,[],False
+j0E42jxFEe6PrbsTcY2PIw,Никодим, Ермо,Никодим, Ермо,3882,3889,[],False
+s0VbXh5yEe22vaPdpmDI1Q,Ксенофонт, Арда,Ксенофонт, Арда,3909,3918,[],False
+mPjfGDxFEe6PrqealqeM6Q,Никодим, Ермо,Никодим, Ермо,4008,4015,[],False
+DbcFNBAmEe2hy99sUzgkpw,полтиною, асси,полтиною, асси,4194,4202,[],False
+Xwsp0h5uEe2JS8c-u4jAhA,Ксенофонт, Арда,Ксенофонт, Арда,4501,4510,[],False
+cr7yxBAnEe2L-It4_TrKXg,куримаго, Нико,куримаго, Нико,4624,4632,[],False
+sO50ojxFEe6iVEfZ86NJlA,Никодим, Ермо,Никодим, Ермо,4633,4640,[],True
+bgsXkjxHEe6lsQcmC03aOA,Никодим Ермолаичем,: гав,Никодим Ермолаичем,: гав,4633,4651,"[Annotation(id='sO50ojxFEe6iVEfZ86NJlA', text='Никодим', suffix=' Ермо', text_html='Никодим', suffix_html=' Ермо', start_position=4633, end_position=4640, children=[], is_child=True), Annotation(id='FGPnJDxGEe6mUOMfk0ZeXw', text='Ермолаичем', suffix=': гав', text_html='Ермолаичем', suffix_html=': гав', start_position=4641, end_position=4651, children=[], is_child=True)]",False
+FGPnJDxGEe6mUOMfk0ZeXw,Ермолаичем,: гав,Ермолаичем,: гав,4641,4651,[],True
+t1uRJjxFEe6Lb_vuqtaulQ,Никодим, Ермо,Никодим, Ермо,4706,4713,[],False
+7PPQDBF-Ee2QIrPdKGH_Vw,любезнейшiй, Ксен,любезнейшiй, Ксен,5192,5203,[],False
+gvYJdB5vEe23WfMUtOYhxA,Ксенофонт, Арда,Ксенофонт, Арда,5204,5213,[],False
+iG_nih5vEe2z50-FppTPaA,Ардальоныч,", с П",Ардальоныч,", с П",5214,5224,[],False
+j5HJUh5vEe2Dcc9Wze3GSw,Птоломей, Доро,Птоломей, Доро,5228,5236,[],False
+SXytPB5wEe2z6fvl4FiUrQ,Ксенофонт, Арда,Ксенофонт, Арда,5396,5405,[],False
+Zfv9MB5yEe23wAtKv-5VSQ,Ксенофонт, Арда,Ксенофонт, Арда,6488,6497,[],False
+vV4psjxFEe6e1h9CzksgKg,Никодим, Ермо,Никодим, Ермо,7365,7372,[],False
+uZXhfB5yEe2YODsDlsoc-g,Ксенофонт, Арда,Ксенофонт, Арда,7689,7698,[],False
+fypaNh5yEe2TRbfnnSbqAw,Ардальоныч, да Н,Ардальоныч, да Н,7699,7709,[],False
+wf2GAjxFEe6pUIuhi1CJWA,Никодим, Ермо,Никодим, Ермо,7713,7720,[],False
+P8AIEjxGEe6_EnMVMIrSmQ,Ермолаич, с Иг,Ермолаич, с Иг,7721,7729,[],False
+g5jhzNItEe2H0-vsNqSEWA,Игнатiй, Варф,Игнатiй, Варф,7732,7739,[],False
+x27X0DxFEe6529-Yr5IYRg,Никодим, Ермо,Никодим, Ермо,8658,8665,[],False
+vtDWnB5yEe2uyZecy0xcgg,Ксенофонт, Арда,Ксенофонт, Арда,8702,8711,[],False
+w7Ktth5yEe2oardmaJK79g,Ксенофонт, Арда,Ксенофонт, Арда,9134,9143,[],False
+yI3Qmh5yEe2DdkP-aCSZMA,Ксенофонт, Арда,Ксенофонт, Арда,9426,9435,[],False
+6gl2TNItEe2RC4eAO_CtEQ,Игнатiй, Варф,Игнатiй, Варф,9563,9570,[],False
+zYksrB5yEe28v2_kOIG_Tg,Ксенофонт," 
+Ард",Ксенофонт," 
+Ард",10286,10295,[],False
+j2kVNh5yEe2F6uNcpu8gkw,Ардальоныч, с Ни,Ардальоныч, с Ни,10297,10307,[],False
+0mpNfDxFEe6NKScY9_aG2g,Никодим, Ермо,Никодим, Ермо,10310,10317,[],False
+nTlqqB5yEe2DdLtEUB3asg,Ардальонычем,: наз,Ардальонычем,: наз,10440,10452,[],False
+1fevnh5yEe2PRTOylh8JXg,Ксенофонт, Арда,Ксенофонт, Арда,11579,11588,[],False
+38o1QDxFEe6PsDMfm49ldw,Никодим, Ермо,Никодим, Ермо,11799,11806,[],False
+5bA7qDxFEe6iVYszr9nyTQ,Никодим, Ермо,Никодим, Ермо,11882,11889,[],False
+ut4OoBrLEe6qKU8NLRKgow,Якова, Ильи,Якова, Ильи,11914,11919,[],True
+cnIwfhGeEe2dE1NeOx3DdQ,Якова Ильича, и во,Якова Ильича, и во,11914,11926,"[Annotation(id='ut4OoBrLEe6qKU8NLRKgow', text='Якова', suffix=' Ильи', text_html='Якова', suffix_html=' Ильи', start_position=11914, end_position=11919, children=[], is_child=True), Annotation(id='rieS2BrNEe6UzmfqlkuDDQ', text='Ильича', suffix=' и\xa0во', text_html='Ильича', suffix_html=' и\xa0во', start_position=11920, end_position=11926, children=[], is_child=True)]",False
+rieS2BrNEe6UzmfqlkuDDQ,Ильича, и во,Ильича, и во,11920,11926,[],True
+v2L3fhrLEe6ZreOOQPUC6w,Якова, Ильи,Якова, Ильи,12226,12231,[],False
+xBkughrLEe6l18vGShNRWQ,Яков, Ильи,Яков, Ильи,14311,14315,[],False
+tbzXnBrNEe6MVAPLjS6JvA,Ильич, Пала,Ильич, Пала,14316,14321,[],False

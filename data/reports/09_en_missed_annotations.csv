@@ -1,0 +1,11 @@
+id,text,suffix,text_html,suffix_html,start_position,end_position,children,is_child
+E-IP7F1XEe6yK0MvTxXIGQ,Bzura,. War,Bzura,. <em,4017,4022,[],False
+D7mEfF7dEe6MrHNchEocNw,"Meeting of the Emperors in Holstein! Bashi-bazouks slaughtered fifteen thousand in Bulgaria! All is calm on Shipka! Trans-Siberian railroad 
+finished! Tsai Hsun condemned to hara-kiri! Evacuation in 
+Manchuria! Incident in Casablanca!", Go o,"Meeting of the Emperors in Holstein! Bashi-bazouks slaughtered fifteen thousand in Bulgaria! All is calm on Shipka! Trans-Siberian railroad 
+finished! Tsai Hsun condemned to hara-kiri! Evacuation in 
+Manchuria! Incident in Casablanca!", Go o,11544,11778,"[Annotation(id='Gc-9eF7dEe64ByOPavvrSg', text='Holstein', suffix='! Bas', text_html='Holstein', suffix_html='! Bas', start_position=11571, end_position=11579, children=[], is_child=True)]",False
+Gc-9eF7dEe64ByOPavvrSg,Holstein,! Bas,Holstein,! Bas,11571,11579,[],True
+JDU2NF7eEe6voE-3U0UfXA,Burgundy,. The,Burgundy,. The,13049,13057,[],False
+T0on_nNzEe602Cc_2Q6mJA,Izhory,. Mor,em>As ,"I 
+Dr",16941,16947,[],True

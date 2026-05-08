@@ -1,0 +1,13 @@
+id,text,suffix,text_html,suffix_html,start_position,end_position,children,is_child
+xFGaPoz-Ee2Kin9QJFgpDA,спицы,", кот",спицы,", кот",1040,1045,[],False
+ZFj-qvccEe28n6NufEVXYQ,ножками," 
+дво",ножками," 
+дво",3911,3918,[],False
+1zFZBI9mEe2vmX_8zrwxEg,"электрическая колымага — 
+скользила по рельсам",", шип","электрическая колымага — 
+скользила по рельсам",", шип",9115,9161,"[Annotation(id='Eij-do8JEe2iGU8MxiK4SA', text='колымага', suffix='\xa0— \nс', text_html='колымага', suffix_html='\xa0— \nс', start_position=9129, end_position=9137, children=[], is_child=True)]",False
+Eij-do8JEe2iGU8MxiK4SA,колымага," — 
+с",колымага," — 
+с",9129,9137,[],True
+yXD2hp0yEe-5U1N1XcLsSw,разъезженной, росс,разъезженной, росс,10986,10998,[],False
+jzjRXI9eEe285NuKVnOBzg,сумраки,", и т",сумраки,", и т",11804,11811,[],False

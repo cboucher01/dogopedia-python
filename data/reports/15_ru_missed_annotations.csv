@@ -1,0 +1,49 @@
+id,text,suffix,text_html,suffix_html,start_position,end_position,children,is_child
+QyonepvtEe2mIVPvy0T1Fw,охотнике, бедн,охотнике, бедн,850,858,[],True
+UT4XjJ5EEe2ynnOfhcYzDA,охотнике бедном,".
+  В",охотнике бедном,.</li,850,865,"[Annotation(id='QyonepvtEe2mIVPvy0T1Fw', text='охотнике', suffix=' бедн', text_html='охотнике', suffix_html=' бедн', start_position=850, end_position=858, children=[], is_child=True)]",False
+bLhWQJIbEe-P1iPcb8WHcQ,отчаяньи,? Пор,отчаяньи,? Пор,1775,1783,[],False
+4FMd2JzqEe2P83vmpuxHmw,погоста,"
+
+
+  ",погоста,""">Эпи",4628,4635,[],False
+c4T29p2rEe2rJPvBN9eEOw,Эклога,"
+  Сл",Эклога,</li>,7121,7127,[],True
+duNSvrbGEe2Iw5MjA_NmZQ,"И там, как в тургеневской книге,
+  Аксаковских уток вспугнул",".
+  Н","И там, как в тургеневской книге,</li>
+  <li>Аксаковских уток вспугнул",.</li,7217,7277,"[Annotation(id='Hpgekp2sEe2SVwOrhLaNag', text='в\xa0тургеневской книге', suffix=',\n  А', text_html='в\xa0тургеневской книге', suffix_html=',</li', start_position=7228, end_position=7248, children=[], is_child=True)]",False
+Hpgekp2sEe2SVwOrhLaNag,в тургеневской книге,",
+  А",в тургеневской книге,",</li",7228,7248,[],True
+BYVrRp2vEe2sRw9jRPylWQ,созвездьем Стрельца,".
+  В",созвездьем Стрельца,.</li,8462,8481,[],False
+ZhodZp0xEe-nhLudFZdqHA,В седых купинах,", оси",В купинах седых,", оси",8582,8597,[],False
+zLOTTp2xEe2m2v8Nj4uLvw,Руси,".
+  О",Руси,.</li,9201,9205,[],True
+u4XRwJ2zEe28lG80irIr7A,клен,".
+  К",клен,. А в,9748,9752,[],False
+iv2Afp20Ee2sk3-JovJN0Q,Неклен,. А в,Неклен,. А в,9939,9945,[],False
+btG3np20Ee2m-R8EP9SUZA,клен,".
+  К",клен,. А в,9960,9964,[],False
+iP-lDp20Ee2jyyd43ksW0A,неклен,".
+  С",неклен,.</li,9989,9995,[],False
+wh0J-J20Ee2iH2tpATUG1g,Собака,".
+  О",Собака,.</li,10088,10094,[],False
+7wlfZp20Ee2ZRt_UnM79eg,Неклен,. А в,Неклен,. А в,10153,10159,[],False
+6xDyZp20Ee2Ewv9B7IJZOw,клен,".
+  К",клен,. А в,10175,10179,[],False
+oWAAPp21Ee2vCTdpi2mJOg,клен,".
+  К",клен,. При,10391,10395,[],False
+r_hTYp21Ee2yNc-N7J69Nw,ан, некл,ан, некл,10420,10422,[],False
+m641mJ21Ee25ImvdnJ1XeA,неклен,".
+  Т",неклен,.</li,10423,10429,[],False
+iGKg1p22Ee292HPjJC4Mng,Неклен,. При,Неклен,. При,10588,10594,[],False
+msGCYJ22Ee2b48PGt1v6kQ,клен,".
+  К",клен,. При,10608,10612,[],False
+ilTJ0p22Ee2Zg1-I4ztvvg,неклен,".
+  Н",неклен,.</li,10634,10640,[],False
+keBryp22Ee2WEAeEAoBwDw,клен,".
+  К",клен,. Нак,10826,10830,[],False
+K50usJ23Ee2zftuhZLf0kw,Оклемаешься, — не,Оклемаешься, — не,10840,10851,[],False
+jE6gyJ22Ee2p3J-z6fwYBg,неклен,".
+  С",неклен,.</li,10854,10860,[],False

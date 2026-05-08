@@ -1,0 +1,12 @@
+id,text,suffix,text_html,suffix_html,start_position,end_position,children,is_child
+j6ZK4lFNEe2sDQPxu-OPkQ,за так,. Отч,за так,. Отч,4624,4630,[],False
+c1WoBlxREe27IUf5xhodbA,прихвачу,. И о,прихвачу,. И о,5671,5679,[],False
+R_JAkBclEe6TDx9TjEvLiQ,Фомич,. Вед,Фомич,. Вед,7763,7768,[],False
+HYZp9rIFEe21iQOD48X2RA,Итиль,. Но ,Итиль,. Но ,9038,9043,[],False
+i2a3RF9kEe2ExjPuPHxTiw,желна,. Пар,желна,. Пар,9283,9288,[],False
+O5IsbCQIEe6UcrOy4qJRog,"Скорбно и Зимарь-Человеку 
+жену губить",", но ","Скорбно и Зимарь-Человеку 
+жену губить",", но ",9420,9458,"[Annotation(id='vIEJEl8DEe29jKc2xVDnIA', text='Зимарь', suffix='-Чело', text_html='Зимарь', suffix_html='-Чело', start_position=9430, end_position=9436, children=[], is_child=True)]",False
+vIEJEl8DEe29jKc2xVDnIA,Зимарь,-Чело,Зимарь,-Чело,9430,9436,[],True
+64HL2p01Ee-I3ttvjiEAzA,братрия, возл,братрия, возл,13278,13285,[],True
+dkOkfmaHEe2WxivJp8cE7Q,гулял,. Бер,гулял,. Бер,15511,15516,[],False

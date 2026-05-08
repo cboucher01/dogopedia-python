@@ -1,0 +1,6 @@
+id,text,suffix,text_html,suffix_html,start_position,end_position,children,is_child
+mJ2lsmH3Ee6-avPnvcqcUQ,printing chicken feet,", the",printing chicken feet,", the",4889,4910,"[Annotation(id='xynK8GH3Ee6NjjvqjhAAug', text='chicken', suffix=' feet', text_html='chicken', suffix_html=' feet', start_position=4898, end_position=4905, children=[], is_child=True)]",False
+xynK8GH3Ee6NjjvqjhAAug,chicken, feet,chicken, feet,4898,4905,[],True
+H4QJsGH7Ee6Bf_tgt-wJ_w,Aurora,"—it 
+",Aurora,"—it 
+",11235,11241,[],False

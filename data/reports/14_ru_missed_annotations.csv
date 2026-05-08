@@ -1,0 +1,23 @@
+id,text,suffix,text_html,suffix_html,start_position,end_position,children,is_child
+YtOGkJGvEe2ZP0sugi0IAQ,с иголочки,". Но,",с иголочки,". Но,",4396,4406,[],False
+5FjDMpjWEe2UrYtZbKPrCw,да три по рогам,. Сла,да три по рогам,. Сла,4746,4761,"[Annotation(id='_bCGlJGwEe2QeP8jurk1WA', text='по рогам', suffix='. Сла', text_html='по рогам', suffix_html='. Сла', start_position=4753, end_position=4761, children=[], is_child=True)]",False
+_bCGlJGwEe2QeP8jurk1WA,по рогам,. Сла,по рогам,. Сла,4753,4761,[],True
+3VJDLpKCEe2tBSvfBa2Onw,волапюк,. Под,волапюк,. Под,6218,6225,[],False
+BwduBJKKEe2n5x9H961OXw,взыскующий,. В т,взыскующий,. В т,8355,8365,[],False
+awHVtJNKEe26UrctkzGhqw,задним числом,. Пло,задним числом,. Пло,8924,8937,[],False
+WpqdDJ0yEe-XewMX3QLKxA,хотел, унят,хотел, унят,9671,9676,[],True
+d8unPBrOEe6I5PutX8EjVw,Петр, плем,Петр, плем,10841,10845,[],False
+R9MSepNTEe2uVBv-gywu8Q,кровь из носу,". 
+Се",кровь из носу,". 
+Се",10939,10952,[],False
+6_iaFi5REe6OUKv2U5dIew,"как 
+душу он мухам хоботом своим вынимал под ладьей",".
+И з","как 
+душу он мухам хоботом своим вынимал под ладьей",".
+И з",12755,12806,"[Annotation(id='YoiaDpQvEe2bpq8vGi2QfA', text='мухам', suffix=' хобо', text_html='мухам', suffix_html=' хобо', start_position=12768, end_position=12773, children=[], is_child=True)]",False
+YoiaDpQvEe2bpq8vGi2QfA,мухам, хобо,мухам, хобо,12768,12773,[],True
+hDQ_5pQvEe2UdB-otCvuig,ладьей,".
+И з",ладьей,".
+И з",12800,12806,[],False
+_ks8OpaMEe23CNt8_ny5Ng,колотун ее бил,. Я ж,колотун ее бил,. Я ж,17220,17234,[],False
+lGJygJdEEe29K2fVLhmw_w,фарватера,. Не ,фарватера,. Не ,19373,19382,[],False

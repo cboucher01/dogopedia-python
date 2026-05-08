@@ -1,0 +1,57 @@
+id,text,suffix,text_html,suffix_html,start_position,end_position,children,is_child
+GRw1rlDdEe6Q5rv0Awlo9Q,humpbacked, Pata,humpbacked, Pata,1610,1620,[],True
+JnKYplDdEe6eTNer8AA99A,humpbacked Patagonian crickets,—cf. ,humpbacked Patagonian crickets,—cf. ,1610,1640,"[Annotation(id='GRw1rlDdEe6Q5rv0Awlo9Q', text='humpbacked', suffix=' Pata', text_html='humpbacked', suffix_html=' Pata', start_position=1610, end_position=1620, children=[], is_child=True), Annotation(id='nXPThH9KEe6fHX-1W-mxEw', text='Patagonian', suffix=' cric', text_html='Patagonian', suffix_html=' cric', start_position=1621, end_position=1631, children=[], is_child=True)]",False
+nXPThH9KEe6fHX-1W-mxEw,Patagonian, cric,Patagonian, cric,1621,1631,[],True
+QU87ZlDdEe6Tsle0R8rTHw,"Carus Sterne, 
+Evolution of the World, Werden und Vergehen",", tra","Carus Sterne, 
+<em>Evolution of the World, Werden und Vergehen",</em>,1645,1703,"[Annotation(id='MBLgKFDdEe6u_iP85tBk2Q', text='Carus Sterne', suffix=', \nEv', text_html='Carus Sterne', suffix_html=', \n<e', start_position=1645, end_position=1657, children=[], is_child=True), Annotation(id='YB3-GlDdEe6cj9e_LKakGA', text='Evolution of the World', suffix=', Wer', text_html='Evolution of the World', suffix_html=', Wer', start_position=1660, end_position=1682, children=[], is_child=True)]",False
+YB3-GlDdEe6cj9e_LKakGA,Evolution of the World,", Wer",Evolution of the World,", Wer",1660,1682,[],True
+WRbtVlGIEe6XAOuTIOcScQ,from the courtyard; the courtyard, is n,from the courtyard; the courtyard, is n,1871,1904,[],False
+Fhda8lI0Ee6jy9fNNRw5VA,Nikodim, Yerm,Nikodim, Yerm,4447,4454,[],False
+HMl_BlI0Ee6y9pflMj4AQQ,Yermolaich,", Kse",Yermolaich,", Kse",4455,4465,[],False
+I_4frFI0Ee67EZuj9jy4AQ,Ksenofont, Arda,Ksenofont, Arda,4467,4476,[],False
+rth-YFI0Ee6f3hv8s4ILiQ,Ksenofont, Arda,Ksenofont, Arda,4630,4639,[],False
+VcWWmlI1Ee6LkL_z1tSAyg,"rubles in 
+assignations",", mer","rubles in 
+assignations",", mer",4762,4785,[],False
+tJ9p5FI0Ee6omkclqZW9Kg,Ksenofont, Arda,Ksenofont, Arda,5067,5076,[],False
+Sc4wMlI0Ee6gfl9T4pUtnA,Nikodim, Yerm,Nikodim, Yerm,5211,5218,[],False
+T4aeJFI0Ee6KZZsNuQ_yIQ,Nikodim, Yerm,Nikodim, Yerm,5298,5305,[],False
+t25P5lI0Ee6Xqd8DOYB0Ag,Ksenofont, Arda,Ksenofont, Arda,5945,5954,[],False
+UgHrnlJEEe6YJkOVKBGvqg,Ptolomey, Doro,Ptolomey, Doro,5974,5982,[],False
+cpWK_lJFEe6fpUO7DVcAyw,jour fixes,", he ",jour fixes,</em>,6656,6666,[],False
+v11MSFI0Ee6j0q_qv5Ij3A,Ksenofont," 
+Ard",Ksenofont," 
+Ard",7467,7476,[],False
+ltMIbFJIEe6lGh9WMI4Xww,frock coat,. Nik,frock coat,. Nik,8455,8465,[],False
+VMyoGlI0Ee6Qqv8aV8ETCw,Nikodim," 
+Yer",Nikodim," 
+Yer",8467,8474,[],False
+w-8_vlI0Ee6inYfmdd2IIw,Ksenofont, Arda,Ksenofont, Arda,8883,8892,[],False
+_tCVxFI0Ee6hR5NJa-b58A,Ardalyonych,", 
+Ni",Ardalyonych,", 
+Ni",8893,8904,[],False
+WWiz-lI0Ee6FxwvLJJcj-A,Nikodim, Yerm,Nikodim, Yerm,8907,8914,[],False
+Xr16wFI0Ee6fKiuZQw30EQ,Nikodim, Yerm,Nikodim, Yerm,9845,9852,[],False
+19RhZlJJEe60_Rda5jylyg,cephalothorax,", Kse",cephalothorax,", Kse",9964,9977,[],False
+x8THHFI0Ee6kpA9UylxFag,Ksenofont, Arda,Ksenofont, Arda,9979,9988,[],False
+y7zn5lI0Ee6S7jf8dlHAlQ,Ksenofont, Arda,Ksenofont, Arda,10435,10444,[],False
+zk3ZylI0Ee6oZiO6tqzR_Q,Ksenofont, Arda,Ksenofont, Arda,10781,10790,[],False
+ZXC1lFI0Ee6Li6vu4Kz__A,Nikodim, Yerm,Nikodim, Yerm,10807,10814,[],False
+mrRgnH9JEe6uT5P3f0LraA,You," 
+kno",You," 
+kno",10889,10892,[],False
+0X02zFI0Ee6UH0OltPWiVw,Ksenofont," 
+Ard",Ksenofont," 
+Ard",11714,11723,[],False
+Dc86-FI1Ee6Bjk__nBF4cw,Ardalyonych, and ,Ardalyonych, and ,11725,11736,[],False
+ay_YylI0Ee6jzs9X5D7PXA,Nikodim, Yerm,Nikodim, Yerm,11741,11748,[],False
+ESmjllI1Ee6vk0u2tuFd4w,Ardalyonych,: The,Ardalyonych,: The,11898,11909,[],False
+3A-TyFI0Ee6M1Ju6qrGxtA,Ksenofont, Arda,Ksenofont, Arda,13249,13258,[],False
+dalanFI0Ee67FEf4fPT9Mw,Nikodim, Yerm,Nikodim, Yerm,13525,13532,[],False
+yRnDTlJLEe6qZguR0Wjobw,Yakov, Ilyi,Yakov, Ilyi,13648,13653,[],True
+1Il2jlJLEe6kQs-UpptrhQ,Yakov Ilyich, stan,Yakov Ilyich, stan,13648,13660,"[Annotation(id='yRnDTlJLEe6qZguR0Wjobw', text='Yakov', suffix=' Ilyi', text_html='Yakov', suffix_html=' Ilyi', start_position=13648, end_position=13653, children=[], is_child=True), Annotation(id='2ZHfclJLEe6CxLNABSpMQw', text='Ilyich', suffix=' stan', text_html='Ilyich', suffix_html=' stan', start_position=13654, end_position=13660, children=[], is_child=True)]",False
+2ZHfclJLEe6CxLNABSpMQw,Ilyich, stan,Ilyich, stan,13654,13660,[],True
+-dGvTFJLEe6pOefaZp6XvA,Yakov, Ilyi,Yakov, Ilyi,13989,13994,[],False
+HUJxVFJNEe6_eJdbbN7EEg,Yakov, Ilyi,Yakov, Ilyi,16285,16290,[],False
+JG3_cFJNEe6WAQtXRQporQ,Ilyich, Pala,Ilyich, Pala,16291,16297,[],False

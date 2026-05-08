@@ -1,0 +1,30 @@
+id,text,suffix,text_html,suffix_html,start_position,end_position,children,is_child
+OsaZwk5GEe6yYAssZIsDdQ,Gévelot, caps,Gévelot, caps,2950,2957,[],False
+QJAkkE5GEe6502_g8q3WRg,caps,"
+  An",caps,</li>,2958,2962,[],False
+uE_K4H2sEe6OPScR1hg82A,Sir French, is s,Sir French, is s,3419,3429,"[Annotation(id='vlnU2n2sEe6MRxvA90-ZJg', text='French', suffix=' is s', text_html='French', suffix_html=' is s', start_position=3423, end_position=3429, children=[], is_child=True)]",False
+vlnU2n2sEe6MRxvA90-ZJg,French, is s,French, is s,3423,3429,[],True
+J3je9k5HEe6ov8vuG1COUQ,grandpa’s tobacco,",
+  A",grandpa’s tobacco,",</li",3622,3639,[],False
+G9gXxk5ZEe6K5Afc7ZxC-Q,coat,".
+  
+",coat,.</p>,6098,6102,[],False
+RZG_pk5cEe6VPuM3NXa9bw,In the old city park, Moza,In the old city park, Moza,8769,8789,[],False
+OLo-DE5cEe6yIYuL9yYyIQ,Mozart’s, musi,Mozart’s, musi,8790,8798,[],False
+lx1ZuE5fEe6vZWcQGHzw3A,evening into night,".
+  I",evening into night,.</li,10675,10693,[],False
+PojvCk5gEe6Vtf-AGa7yHA,"And you’re so glum, as one may gather,
+  That faithful ale can’t make life right.
+  Should you clean your chibouk or rather
+  
+    Challenge your neighbor to a fight?","
+  
+ ","And hunting grounds in sadness drown.</p>
+  </li>
+  <li>And you’re so glum, as one may gather,</li>
+  <li>That faithful ale can’t make life right.</li>
+  <li>Should you clean your chibouk or rather</li>
+  <li>
+    <p>Challenge your neighbor to a fight?","</p>
+",11434,11600,"[Annotation(id='RQlyHk5gEe6WyB9sKGfoRA', text='chibouk', suffix=' or r', text_html='chibouk', suffix_html=' or r', start_position=11540, end_position=11547, children=[], is_child=True)]",False
+RQlyHk5gEe6WyB9sKGfoRA,chibouk, or r,chibouk, or r,11540,11547,[],True

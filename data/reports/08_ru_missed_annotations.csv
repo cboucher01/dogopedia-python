@@ -1,0 +1,26 @@
+id,text,suffix,text_html,suffix_html,start_position,end_position,children,is_child
+RZCPeDUIEe2eCkMdTmOL_w,юля,. Что,юля,. Что,954,957,[],False
+SX6VCkiYEe2ac0uZlE4qfA,Быгодождь,. То-,Быгодождь,. То-,1197,1206,[],False
+fARcyjtMEe21DwuxaXgG4g,Зимарь,-Чело,Зимарь,-Чело,4687,4693,[],False
+y3aYcj2kEe22Vwdj1wKmdw,"Всюду сумерки, всюду вечер",", вез","Всюду сумерки, всюду вечер",", вез",5287,5313,[],True
+vZE8zmYjEe2W3XclL12Asg,"Всюду сумерки, всюду вечер, везде Итиль. Но 
+там, где Зимарь-Человек телегой скрипит — заосеняло с небес, у коллег в Городнище завьюжило, а на моей Волка-речке — иволга да 
+желна",. Пос,"Всюду сумерки, всюду вечер, везде Итиль. Но 
+там, где Зимарь-Человек телегой скрипит — заосеняло с небес, у коллег в Городнище завьюжило, а на моей Волка-речке — иволга да 
+желна",. Пос,5287,5465,"[Annotation(id='y3aYcj2kEe22Vwdj1wKmdw', text='Всюду сумерки, всюду вечер', suffix=', вез', text_html='Всюду сумерки, всюду вечер', suffix_html=', вез', start_position=5287, end_position=5313, children=[], is_child=True), Annotation(id='-rLP-rIEEe2pH9O-ziaDBg', text='Итиль', suffix='. Но ', text_html='Итиль', suffix_html='. Но ', start_position=5321, end_position=5326, children=[], is_child=True)]",False
+-rLP-rIEEe2pH9O-ziaDBg,Итиль,. Но ,Итиль,. Но ,5321,5326,[],True
+1DwWRD2kEe2cHEcQf_T60g,Зимарь,-Чело,Зимарь,-Чело,5341,5347,[],False
+DzcIMo7rEe-0tje7KXx3bA,Однако, ореш,Однако, ореш,9189,9195,[],False
+FkGwwkNTEe2YPLd3OF6kWA,единожды,. Нет,единожды,. Нет,9627,9635,[],False
+y6-ssEQrEe2R_t9saFxFdg,мережа,", дыр",мережа,", дыр",11709,11715,[],False
+_F9-intHEe-QVV_H8Nq4Jg,туге,", 
+а ",туге,", 
+а ",11828,11832,[],False
+Sf3Y4pIfEe-P9X9jpPUfHQ,Занырнуть," бы, ",Занырнуть," бы, ",13185,13194,[],False
+ZydGfo7rEe-v3EuBATP_pg,прорези, поза,прорези, поза,14735,14742,[],False
+cIPjzkZ5Ee2RD39l8dosrg,достали, квак,достали, квак,16404,16411,[],False
+ieGRikEVEe6hVcPAZavraw,квакухи, хоро,квакухи, хоро,16412,16419,[],False
+45jeNI7rEe-l-EcKG2ZGSg,костерок,. Оза,костерок,. Оза,17035,17043,[],False
+tyBIckZ-Ee2-0u-Wn6KTvA,лаптенку,", я е",лаптенку,", я е",17214,17222,[],False
+C-A0ZI7sEe-5iuur3wUrpw,смурлыкал,. Хлы,смурлыкал,. Хлы,17243,17252,"[Annotation(id='aLtYsE5AEe2tJrt6IvMWNQ', text='Хлынь', suffix=' обши', text_html='Хлынь', suffix_html=' обши', start_position=17245, end_position=17250, children=[], is_child=True)]",False
+aLtYsE5AEe2tJrt6IvMWNQ,Хлынь, обши,Хлынь, обши,17245,17250,[],True

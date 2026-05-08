@@ -28,7 +28,7 @@ def main():
         annotated_chapter_text = annotate_one_chapter(chapter_text, chapter_annotations)
         normalized_chapter_text = normalize_chapter_text(annotated_chapter_text)
         write_output_file(chapter, normalized_chapter_text)
-        print_report(chapter, chapter_annotations, annotated_chapter_text)
+        write_reports(chapter, chapter_annotations, annotated_chapter_text)
 
 
 def get_chapters():
@@ -85,22 +85,23 @@ def identify_parent_and_child_annotations(chapter_annotations, starting_index=0)
 
     Iterates through chapter_annotations and checks start and end position in relation to those of the next annotation.
     """
-    starting_annotation = chapter_annotations[starting_index]
+    starting_index = starting_index
     index_of_next_annotation = starting_index + 1
-    next_annotation = chapter_annotations[index_of_next_annotation]
-    # check if next annotation is a parent to the first one
-    if (next_annotation.start_position <= starting_annotation.start_position
-            and next_annotation.end_position >= starting_annotation.end_position):
-        next_annotation.children.append(starting_annotation)
-        starting_annotation.is_child = True
-        identify_parent_and_child_annotations(chapter_annotations, index_of_next_annotation)
-    # check if first annotation is a parent to the second one
-    elif (next_annotation.start_position >= starting_annotation.start_position
-            and next_annotation.end_position <= starting_annotation.end_position):
-        starting_annotation.children.append(next_annotation)
-        next_annotation.is_child = True
-        identify_parent_and_child_annotations(chapter_annotations, index_of_next_annotation)
-    return
+    for i in range(starting_index, len(chapter_annotations) - 1):
+        starting_annotation = chapter_annotations[starting_index]
+        next_annotation = chapter_annotations[index_of_next_annotation]
+        # check if next annotation is a parent to the first one
+        if (next_annotation.start_position <= starting_annotation.start_position
+                and next_annotation.end_position >= starting_annotation.end_position):
+            next_annotation.children.append(starting_annotation)
+            starting_annotation.is_child = True
+        # check if first annotation is a parent to the second one
+        elif (next_annotation.start_position >= starting_annotation.start_position
+                and next_annotation.end_position <= starting_annotation.end_position):
+            starting_annotation.children.append(next_annotation)
+            next_annotation.is_child = True
+        starting_index += 1
+        index_of_next_annotation += 1
 
 
 def add_annotation(annotation, chapter_text):
@@ -133,14 +134,15 @@ def write_output_file(chapter, normalized_chapter_text):
         outfile.write(normalized_chapter_text_with_frontmatter)
 
 
-def print_report(chapter, chapter_annotations, annotated_chapter_text):
+def write_reports(chapter, chapter_annotations, annotated_chapter_text):
     """
-    Prints a report of the success rate of adding annotations to the chapter.
+    Prints a report of the success rate of adding annotations to the chapter, then writes a CSV report
+    of missed annotations.
 
     Includes:
         - Count of annotations successfully added
         - Percentage of annotations successfully added
-        - Report containing id, text, suffix, text_html, suffix_html, and is_child of missed annotations
+        - Report containing metadata for missed annotations
 
     Issues identified so far:
         Addressed:
@@ -154,23 +156,21 @@ def print_report(chapter, chapter_annotations, annotated_chapter_text):
     print('----------------------------------------------------')
     print()
     print(
-        f'{added_annotations} annotations out of {len(chapter_annotations)} added to chapter {chapter.number} {chapter.language}.')
+        f'{added_annotations} annotations out of {len(chapter_annotations)} added to chapter {chapter.number}_{chapter.language}.')
     print(
         f'Percentage of annotations successfully added: {added_annotations / len(chapter_annotations) * 100:.2f}%')
     print()
-    # if len(missed_annotations) > 0:
-    #     print(f'{"Annotations missed in " + chapter.number + " " + chapter.language:^140}')
-    #     print()
-    #     print(f'{'id':<30}{'text':<40}{'suffix':<10}{'text_html':<40}{'suffix_html':<10}{'is_child':>20}')
-    #
-    #     for annotation in missed_annotations:
-    #         print(f'{annotation.id:<30}'
-    #               f'{"'" + annotation.text + "'":<40}'
-    #               f'{"'" + annotation.suffix + "'":<10}'
-    #               f'{"'" + annotation.text_html + "'":<40}'
-    #               f'{"'" + annotation.suffix_html + "'":<10}'
-    #               f'{str(annotation.is_child):>20}')
-    #     print()
+
+    if len(missed_annotations) > 0:
+        outfile_name = chapter.get_missed_annotations_report_path()
+        with open(outfile_name, 'w', newline='') as outfile:
+            writer = csv.writer(outfile)
+            writer.writerow(['id', 'text', 'suffix', 'text_html', 'suffix_html', 'start_position',
+                             'end_position', 'children', 'is_child'])
+            for annotation in missed_annotations:
+                writer.writerow([annotation.id, annotation.text, annotation.suffix, annotation.text_html,
+                                 annotation.suffix_html, annotation.start_position, annotation.end_position,
+                                 annotation.children, annotation.is_child])
 
 
 def get_added_annotations(chapter_annotations, clean_chapter_text):

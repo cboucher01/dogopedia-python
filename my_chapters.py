@@ -18,6 +18,9 @@ class Chapter:
     def get_write_path(self):
         return f'data/output/{self.number}_{self.language}.html'
 
+    def get_missed_annotations_report_path(self):
+        return f'data/reports/{self.number}_{self.language}_missed_annotations.csv'
+
     def get_clean_html(self):
         infile_name = self.get_read_path()
         with open(infile_name, 'r', encoding='utf-8') as infile:

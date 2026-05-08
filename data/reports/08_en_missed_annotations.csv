@@ -1,0 +1,13 @@
+id,text,suffix,text_html,suffix_html,start_position,end_position,children,is_child
+DpR0imJcEe6ixZPQsCyUYA,oaken clubs,", fro",oaken clubs,", fro",1290,1301,"[Annotation(id='VB8-5IcQEe63V9vIatJXSw', text='oaken', suffix=' club', text_html='oaken', suffix_html=' club', start_position=1290, end_position=1295, children=[], is_child=True)]",False
+T0EbgmJcEe6KOMfi9aEIrw,Bydogozhd,". 
+So",Bydogozhd,". 
+So",1370,1379,[],False
+gc8iVGKuEe6eqnOqWZVxtg,orioles, and ,orioles, and ,6844,6851,[],True
+jN3jumKuEe6gtPuxuUwsVg,orioles and woodpeckers,. I d,orioles and woodpeckers,. I d,6844,6867,"[Annotation(id='gc8iVGKuEe6eqnOqWZVxtg', text='orioles', suffix=' and ', text_html='orioles', suffix_html=' and ', start_position=6844, end_position=6851, children=[], is_child=True)]",False
+zNm-hmLGEe6Wbm-2hlTDJg,"a certain day, You know, will come",. The,"a certain day, You know, will come",. The,9907,9941,"[Annotation(id='xN6m9IAAEe6_FztSGXaPiQ', text='You', suffix=' know', text_html='You', suffix_html=' know', start_position=9922, end_position=9925, children=[], is_child=True)]",False
+xN6m9IAAEe6_FztSGXaPiQ,You, know,You, know,9922,9925,[],True
+zqOgNoAAEe6t3BOfm3h8GA,You, thin,You, thin,10315,10318,[],False
+L44uemLOEe6kYi-m3gZwFg,e-e," 
+and",e-e,</em>,14844,14847,[],False
+OUCYImLOEe6DFIv39lM9Rg,uke,", got",uke,</em>,14861,14864,[],False

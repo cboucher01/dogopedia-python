@@ -1,0 +1,21 @@
+id,text,suffix,text_html,suffix_html,start_position,end_position,children,is_child
+78iOQB_TEe2bCcsKMUZkTA,алкоголизма,", слы",алкоголизма,", слы",1333,1344,[],False
+Yav0oI7nEe-Zn6vbJx60xQ,ссуди,", мне",ссуди,", мне",2203,2208,[],True
+01JcLCkqEe2OajOQji5pcQ,Отраде одной Имярековой,. Про,Отраде одной Имярековой,. Про,2234,2257,"[Annotation(id='Ur5pPiCmEe21yos8baZRyQ', text='Имярековой', suffix='. Про', text_html='Имярековой', suffix_html='. Про', start_position=2247, end_position=2257, children=[], is_child=True)]",False
+Ur5pPiCmEe21yos8baZRyQ,Имярековой,. Про,Имярековой,. Про,2247,2257,[],True
+ZgniMhrLEe6ckMc5Bm8j6g,Яков, Ильи,Яков, Ильи,2350,2354,[],False
+iZqlsI7nEe-UcWMKXL4wyQ,обязательно, к не,обязательно, к не,2513,2524,[],False
+oQLQIiO7Ee2wG085Rq0pTA,несчастие,. И д,несчастие,. И д,3686,3695,[],False
+19ovSI7nEe-Td9sC5J0g_w,;, гово,;, гово,3801,3802,[],False
+tAehMCJmEe2dytcxnFDU4A,птах,. А к,птах,. А к,3906,3910,[],False
+03qZViMAEe2pF_9YejZORQ,инда, Яков,инда, Яков,5249,5253,[],False
+efiSNBrLEe6OFh8C4fYV1Q,Яков, Ильи,Яков, Ильи,5254,5258,[],False
+pM1nBI7oEe-d2PtK7XHGyw,с удовольствием, снег,с удовольствием, снег,6899,6914,[],False
+q3yahiVNEe2F4DedWdXzQQ,Миллерове, — по,Миллерове, — по,8428,8437,[],False
+n_CzcCU8Ee2aPLcQav3bIw,худобу покорного,. И в,худобу покорного,. И в,8612,8628,[],False
+5_TSqrIEEe2ZsSPkJMvVOA,Итиле́,. Тот,Итиле́,. Тот,12927,12933,[],False
+LnjLUE7hEe2s1F8Cohw8aA,мол,", при",мол,", при",13945,13948,[],True
+x0sWviX-Ee2u0_cSs3kq1A,"упал кулем 
+под колеса, и оттяпало бо́сую ноженьку, будто серпом",. Виж,"упал кулем 
+под колеса, и оттяпало бо́сую ноженьку, будто серпом",. Виж,13971,14035,"[Annotation(id='nh82HoeVEe2wfx_SizOL-w', text='бо́сую', suffix=' ноже', text_html='бо́сую', suffix_html=' ноже', start_position=14006, end_position=14012, children=[], is_child=True)]",False
+g3fspI7pEe-VravtAUre2Q,"эхма, нескладуха какая,", плак,"эхма, нескладуха какая,", плак,14389,14412,[],False

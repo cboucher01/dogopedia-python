@@ -1,0 +1,73 @@
+id,text,suffix,text_html,suffix_html,start_position,end_position,children,is_child
+CDUR7Gs4Ee2L21e6cJWPqQ,тьмой,".
+  
+",тьмой,.</p>,1190,1195,[],False
+YvC2xmwGEe2smitBrfrvvA,Стожары,".
+  Н",Стожары,.</li,2842,2849,[],False
+bTrQHGzOEe2Eryc-u_O_Nw,детвора,",
+  И",детвора,",</em",3804,3811,[],False
+dlRoXGzOEe2pfQ91UyM73w,Развесил уши, и по,Развесил уши, и по,3849,3861,[],False
+e_U9fGzOEe2put83xv4Rvw,попал впросак,".
+
+
+З",попал впросак,.</em,3864,3877,[],False
+XteoFGzPEe24u1cDIwQKfQ,валень, пове,валень, пове,4036,4042,[],True
+Htt2_nluEe2hcfOyiBKrCw,прощевай,", наш",прощевай,", наш",4291,4299,[],False
+x9N4mIAQEe6rwi_FwpBWHQ,Портрет, пере,Портрет, пере,5018,5025,[],True
+LIvVuJzxEe21hwOaEMZzAg,"Портрет перевозчика
+
+
+  ","Пой, ",Портрет, знак,5018,5042,"[Annotation(id='x9N4mIAQEe6rwi_FwpBWHQ', text='Портрет', suffix=' пере', text_html='Портрет', suffix_html=' пере', start_position=5018, end_position=5025, children=[], is_child=True), Annotation(id='bzwzYHS8Ee2aOTc-7Bz_FA', text='перевозчика', suffix='\n\n\n  ', text_html='перевозчика', suffix_html='"">Пор', start_position=5026, end_position=5037, children=[], is_child=True)]",False
+bzwzYHS8Ee2aOTc-7Bz_FA,перевозчика,"
+
+
+  ",перевозчика,""">Пор",5026,5037,[],True
+orY2gnVrEe2KvKP4fHh-yw,"Меж собакою
+
+
+  ",Меж с,Меж, свет,5933,5949,[],False
+2rR3gHZAEe2u1bNZ2va9NQ,"волки али
+  Псы", пром,"волки али</li>
+  <li>Псы", пром,6582,6597,"[Annotation(id='0dBE-nZAEe2Ozx8ljl-1cw', text='али', suffix='\n  Пс', text_html='али', suffix_html='</li>', start_position=6588, end_position=6591, children=[], is_child=True)]",False
+0dBE-nZAEe2Ozx8ljl-1cw,али,"
+  Пс",али,</li>,6588,6591,[],True
+1de5mnoNEe2Kr_8nT9yLlQ,"Там туманы выползают
+  Из реки Итиль,
+  В избах люди зажигают
+  Ламп своих фитиль.","
+  Та","Там туманы выползают</li>
+  <li>Из реки Итиль,</li>
+  <li>В избах люди зажигают</li>
+  <li>Ламп своих фитиль.",</li>,6793,6875,"[Annotation(id='hcW95rIFEe2LVp9yR4gyfg', text='реки Итиль', suffix=',\n  В', text_html='реки Итиль', suffix_html=',</li', start_position=6819, end_position=6829, children=[], is_child=True)]",False
+hcW95rIFEe2LVp9yR4gyfg,реки Итиль,",
+  В",реки Итиль,",</li",6819,6829,[],True
+9heM6HV3Ee20zXcPKQ9JBw,избах, люди,избах, люди,6835,6840,[],False
+c1CgtHV4Ee2PCwutngaKXA,плакучих ив,"
+  Ег",плакучих ив,</li>,6903,6914,[],False
+WpO3OnsBEe2Eoqv7llXQ7w,"Егерь выронил иголку,
+  Дырку не зашив",".
+
+
+З","Егерь выронил иголку,</li>
+  <li>Дырку не зашив",.</li,6917,6955,"[Annotation(id='GWb5lmEwEe6UuAueqyWqXw', text='Дырку не зашив', suffix='.\n\n\nЗ', text_html='Дырку не зашив', suffix_html='.</li', start_position=6941, end_position=6955, children=[], is_child=True)]",False
+GWb5lmEwEe6UuAueqyWqXw,Дырку не зашив,".
+
+
+З",Дырку не зашив,.</li,6941,6955,[],True
+KjLUXgSVEe6Ie1eXUhKaWQ,утка, — не,утка, — не,8666,8670,[],False
+reeNDnfREe2FyOdOnGXlBg,засвищет,".
+  
+",засвищет,.</p>,9934,9942,[],False
+_XvFOp00Ee-vKUsh93pW4w,посули́л, ведь,посули́л, ведь,10332,10340,[],False
+GZwP1nkBEe2X-68mruX6pw,почтарь, Сила,почтарь, Сила,11335,11342,[],False
+zduIsnj-Ee27o79ZmOe_DQ,Сила Силыч,",
+  2",Сила Силыч,",</li",11343,11353,[],False
+0PaIJnj-Ee2YkV_ygUpdJQ,Сила Силыч,",
+  У",Сила Силыч,",</li",11542,11552,[],False
+y39LYJ00Ee-VEQ8u1JKuFA,постскри́птумы, твои,постскри́птумы, твои,11942,11956,[],False
+YwbtDp00Ee-VDUNYRlwHww,"тебя, вроде, съели",",
+  К",съели,",</li",12399,12417,[],False
+D4MchnmUEe2wRk_3rVGPOg,ой ли,".
+  К",ой ли,.</li,13786,13791,[],False
+iNczznmUEe2QFj8uBZ4qtQ,накатал," он,
+",накатал," он,<",13910,13917,[],False

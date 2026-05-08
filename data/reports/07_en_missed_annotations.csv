@@ -1,0 +1,11 @@
+id,text,suffix,text_html,suffix_html,start_position,end_position,children,is_child
+XEnUcFMTEe6h8wf1lD94lg,chokes,", you",chokes,", you",1763,1769,[],False
+637wTlPREe6Sijc0njAO1A,"May the Magpie be sick, may the Crow be sick too",",
+  B","May the Magpie be sick, may the Crow be sick too",",</li",2386,2434,"[Annotation(id='8T2YyFPREe66Mn-j-zryVw', text='Magpie', suffix=' be s', text_html='Magpie', suffix_html=' be s', start_position=2394, end_position=2400, children=[], is_child=True)]",False
+8T2YyFPREe66Mn-j-zryVw,Magpie, be s,Magpie, be s,2394,2400,[],True
+wGdO6lPTEe66O3faalM62w,Bobrov,",
+  F",Bobrov,",</li",3435,3441,[],False
+IQRLcFPbEe6RLQchDIofPQ,andante,".
+  C",andante,.</li,4720,4727,[],False
+psoeSFPfEe6GyaNvOOaqQQ,threshold of dusk,",
+  I",threshold of dusk,",</li",9144,9161,[],False
