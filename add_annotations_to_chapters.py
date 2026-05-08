@@ -8,6 +8,7 @@ Inputs:
 
 Output:
     - annotated chapter text in HTML files with YAML front matter for Jekyll site
+    - reports of missed annotations for each chapter
 """
 
 import csv
