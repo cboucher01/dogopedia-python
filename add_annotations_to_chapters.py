@@ -12,6 +12,7 @@ Output:
 
 import csv
 import unicodedata
+import os
 
 from my_chapters import Chapter
 from my_annotations import Annotation
@@ -148,29 +149,18 @@ def write_reports(chapter, chapter_annotations, annotated_chapter_text):
         Addressed:
             - Many of the missed annotations are missing leading whitespace on their suffixes, causing replace to fail.
         Unaddressed:
-            -
+            - None, currently
     """
     added_annotations = get_added_annotations(chapter_annotations, annotated_chapter_text)
     missed_annotations = get_missed_annotations(chapter_annotations, annotated_chapter_text)
 
-    print('----------------------------------------------------')
-    print()
-    print(
-        f'{added_annotations} annotations out of {len(chapter_annotations)} added to chapter {chapter.number}_{chapter.language}.')
-    print(
-        f'Percentage of annotations successfully added: {added_annotations / len(chapter_annotations) * 100:.2f}%')
-    print()
+    print('-----------------------------------------------------')
+    print(f'{'Chapter ' + chapter.number + '_' + chapter.language:^53}\n')
+    print_success_rate_report(added_annotations, chapter_annotations)
 
-    if len(missed_annotations) > 0:
-        outfile_name = chapter.get_missed_annotations_report_path()
-        with open(outfile_name, 'w', newline='') as outfile:
-            writer = csv.writer(outfile)
-            writer.writerow(['id', 'text', 'suffix', 'text_html', 'suffix_html', 'start_position',
-                             'end_position', 'children', 'is_child'])
-            for annotation in missed_annotations:
-                writer.writerow([annotation.id, annotation.text, annotation.suffix, annotation.text_html,
-                                 annotation.suffix_html, annotation.start_position, annotation.end_position,
-                                 annotation.children, annotation.is_child])
+    outfile_name = chapter.get_missed_annotations_report_path()
+    delete_old_report(outfile_name)
+    write_missed_annotations_report(missed_annotations, outfile_name)
 
 
 def get_added_annotations(chapter_annotations, clean_chapter_text):
@@ -187,6 +177,32 @@ def get_missed_annotations(chapter_annotations, clean_chapter_text):
         if annotation.id not in clean_chapter_text:
             missed_annotations.append(annotation)
     return missed_annotations
+
+
+def print_success_rate_report(added_annotations, chapter_annotations):
+    print(
+        f'Added {added_annotations} annotations out of {len(chapter_annotations)}.')
+    print(
+        f'Percentage of annotations successfully added: {added_annotations / len(chapter_annotations) * 100:.2f}%')
+
+
+def delete_old_report(path):
+    try:
+        os.remove(path)
+    except FileNotFoundError:
+        pass
+
+
+def write_missed_annotations_report(missed_annotations, outfile_name):
+    if len(missed_annotations) > 0:
+        with open(outfile_name, 'w', newline='') as outfile:
+            writer = csv.writer(outfile)
+            writer.writerow(['id', 'text', 'suffix', 'text_html', 'suffix_html', 'start_position',
+                             'end_position', 'children', 'is_child'])
+            for annotation in missed_annotations:
+                writer.writerow([annotation.id, annotation.text, annotation.suffix, annotation.text_html,
+                                 annotation.suffix_html, annotation.start_position, annotation.end_position,
+                                 annotation.children, annotation.is_child])
 
 
 if __name__ == '__main__':
