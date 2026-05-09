@@ -12,11 +12,11 @@ Output:
 """
 
 import csv
-import unicodedata
 import os
+import unicodedata
 
-from my_chapters import Chapter
 from my_annotations import Annotation
+from my_chapters import Chapter
 
 CHAPTER_DATA_FILE = 'data/chapter_data.csv'
 ANNOTATION_DATA_FILE = 'data/annotation_data/comments-all.csv'
@@ -157,7 +157,10 @@ def write_reports(chapter, chapter_annotations, annotated_chapter_text):
 
     print('-----------------------------------------------------')
     print(f'{'Chapter ' + chapter.number + '_' + chapter.language:^53}\n')
-    print_success_rate_report(added_annotations, chapter_annotations)
+    if len(chapter_annotations) > 0:
+        print_success_rate_report(added_annotations, chapter_annotations)
+    else:
+        print('This chapter has no annotations to add.')
 
     outfile_name = chapter.get_missed_annotations_report_path()
     delete_old_report(outfile_name)
